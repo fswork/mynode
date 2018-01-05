@@ -1,3 +1,4 @@
-<script>
-aasasa
-</script>
+var ss = 'dssd';
+console.log(ss);
+
+var ss = '不是';
